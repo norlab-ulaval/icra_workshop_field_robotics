@@ -1,76 +1,17 @@
 ![field robot image](images/banner_white.jpg)
 
-## Thanks!
-
-The workshop on Field Robotics 2025 is over and was a tremendous success! We received many contributions, out of which the presented papers are listed in the following section, high-quality talks, and had estimated the attendance to more than 300 researchers. The workshop was the most crowded room of the day, demonstrating a clear need for field roboticists to gather and share experiences and lessons learned.
-
-## Presented papers
-
-|                                                                                                                                                                                                                                                                               |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **[A Concept for Planetary Drilling Autonomy](https://ntrs.nasa.gov/citations/20250003932)**<br>Sarah Boelter, Ebasa Temesgen, Greta Brown, Mario Jerez, Elsa Forberger, Brian Glass, Maria Gini                                                                                  |
-| **[ASAP-MO:  Advanced Situational Awareness and Perception for Mission-critical Operations](http://arxiv.org/abs/2505.01547)**<br>Veronica Vannini, William Dubois, Olivier Gamache, Jean-Michel Fortin, Nicolas Samson, Effie Daum, François Pomerleau, Edith Brotherton         |
-| **[AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames](https://arxiv.org/pdf/2505.03448)**<br>Yifan Peng, Yuze Hong, Ziyang Hong, Apple Pui-Yi Chui, Junfeng Wu                                                                             |
-| **[Ariel Explores: Vision-based underwater exploration and inspection via generalist drone-level autonomy](https://arxiv.org/abs/2507.10003)**<br>Mohit Singh, Mihir Dharmadhikari, Kostas Alexis                                                                                 |
-| **[Automated Deployment Planning for Heterogeneous Robot Teams in Disaster Response](https://arxiv.org/abs/2507.02708)**<br>Ananya Rao, Alyssa Hargis, David Wettergreen, Howie Choset                                                                                            |
-| **Autonomous Culvert Inspection on the Erie Canal using Legged Robots**<br>Kartikeya Singh et. al.                                                                                                                                                                                |
-| **Bringing smart sensing to the forest: on-machine volume estimation for  long-log harvesting**<br>Maxime Vaidis et. al.                                                                                                                                                          |
-| **[CAHSOR: Competence-Aware High-Speed Off-Road Ground Navigation in SE(3)](https://arxiv.org/abs/2402.07065)**<br>Anuj Pokhrel, Mohammad Nazeri, Aniket Datar, Xuesu Xiao                                                                                                        |
-| **[CU-Multi: A Dataset for Multi-Robot Data Association](https://arxiv.org/abs/2505.17576v2)**<br>Doncey Albin, Miles Mena, Annika Thomas, Harel Biggie, Xuefei Sun, Dusty Woods, Steve McGuire, Christoffer Heckman                                                              |
-| **Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation**<br>Robel Mamo et. al.                                                                                                                                                                  |
-| **[Deploying Foundation Model-Enabled Air and Ground Robots in the Field: Challenges and Opportunities](https://arxiv.org/abs/2505.09477)**<br>Zachary Ravichandran, Fernando Cladera, Jason Hughes, Varun Murali, M. Ani Hsieh, George J. Pappas, Camillo J. Taylor, Vijay Kumar |
-| **[Deploying SICNav in the Field: Safe and Interactive Crowd Navigation using MPC and Bilevel Optimization](https://arxiv.org/abs/2506.08851)**<br>Sepehr Samavi, Garvish Bhutani, Florian Shkurti, Angela P. Schoellig                                                           |
-| **[Diffusion-Based Image Augmentation for Semantic Segmentation in Outdoor Robotics](https://arxiv.org/abs/2507.00153v1)**<br>Peter Mortimer, Mirko Maehlisch                                                                                                                     |
-| **[Do We Still Need to Work on Odometry for Autonomous Driving?](https://arxiv.org/abs/2505.04438)**<br>Cedric Le Gentil, Daniil Lisus, Timothy D. Barfoot                                                                                                                        |
-| **Ecologically-Informed Autonomy in Field Robotics: Toward Nutrient-Driven Informative Sampling**<br>Fiorella Sibona et. al.                                                                                                                                                      |
-| **[End-to-End Framework for Robot Lawnmower Coverage Path Planning using Cellular Decomposition](https://arxiv.org/abs/2506.06028)**<br>Nikunj Shah, Utsav Dey, Kenji Nishimiya                                                                                                   |
-| **[Enhancing Situational Awareness in Underwater Robotics with Multi-modal Spatial Perception](https://arxiv.org/abs/2506.06476)**<br>Pushyami Kaveti, Ambjorn Grimsrud Waldum, Hanumant Singh, Martin Ludvigsen                                                                  |
-| **[Evaluating Robustness of Deep Reinforcement Learning for Autonomous Surface Vehicle Control in Field Tests](https://arxiv.org/abs/2505.10033)**<br>Luis F. W. Batista, Stéphanie Aravecchia, Seth Hutchinson, Cédric Pradalier                                                 |
-| **[Excavation Autonomy with Resilient Traversability and Handling](https://droneslab.github.io/EARTH/static/docs/EARTH_WFR_Optimized.pdf)**<br>Yash Turkar, Christo Aluckal, Sugheerth Sreedharan, Yashom Dighe, Youngjin Kim, Jake Gemerek, Karthik Dantu                        |
-| **[Factor-Graph-Based Passive Acoustic Navigation for Decentralized Cooperative Localization Using Bearing Elevation Depth Difference](https://arxiv.org/abs/2506.14690)**<br>Kalliyan Velasco, Timothy W. McLain, Joshua G. Mangelson                                            |
-| **[Feature Geometry for Stereo Sidescan and Forward-looking Sonar](https://arxiv.org/abs/2507.05410)**<br>Kalin Norman, Joshua G. Mangelson                                                                                                                                       |
-| **[Field Report on Ground Penetrating Radar for Localization at the Mars Desert Research Station](https://arxiv.org/pdf/2504.15455)**<br>Anja Sheppard, Katherine A. Skinner                                                                                                      |
-| **[From Theory to Practice: Identifying the Optimal Approach for Offset Point Tracking in the Context of Agricultural Robotics](https://arxiv.org/abs/2506.16143)**<br>Stephane Ngnepiepaye Wembe, Vincent Rousseau, Johann Laconte, Roland Lenain                                |
-| **GND: An Outdoor Global Navigation Dataset with Multi-Modal Perception and Traversability**<br>Jing Liang et. al.                                                                                                                                                                |
-| **[Gaussian Splatting as a Unified Representation for Autonomy in Unstructured Environments](https://arxiv.org/abs/2505.11794)**<br>Dexter Ong, Yuezhan Tao, Varun Murali, Igor Spasojevic, Vijay Kumar, Pratik Chaudhari                                                         |
-| **[Invariant Extended Kalman Filter for Autonomous Surface Vessels with Partial Orientation Measurements](https://arxiv.org/abs/2506.10850)**<br>Derek Benham, Easton Potokar, Joshua G. Mangelson                                                                                |
-| **[Learning Rock Pushability on Rough Planetary Terrain](https://arxiv.org/pdf/2505.09833)**<br>Tuba Girgin, Emre Girgin, Cagri Kilic                                                                                                                                             |
-| **Localized Graph-Based Neural Dynamics Models for Terrain Manipulation**<br>Chaoqi Liu et. al.                                                                                                                                                                                   |
-| **MARIO: Multi-Arm Robot for In-orbit Operations**<br>Praveen Elavazhagan et. al.                                                                                                                                                                                                 |
-| **[Mapping the Catacombs: An underwater cave segment of the Devil's System](https://arxiv.org/abs/2507.06397)**<br>Michalis Chatzispyrou, Luke Horgan, Hyunkil Hwang, Harish Sathishchandra, Monika Roznere, Alberto Quattrini Li, Philippos Mordohai, Ioannis Rekleitis          |
-| **On the Development of a Portable and Cost-Effective Multimodal Imaging System for Underwater Mapping and Monitoring with Remotely Operated Vehicles**<br>Giancarlo Troni et. al.                                                                                                |
-| **[Optimizing Indoor Farm Monitoring Efficiency Using UAV: Yield Estimation in a GNSS-Denied Cherry Tomato Greenhouse](https://arxiv.org/abs/2505.00995)**<br>Taewook Park, Jinwoo Lee, Hyondong Oh, Won-Jae Yun, Kyu-Wha Lee                                                     |
-| **Physics-Constrained and Vision-Informed Friction Estimation**<br>Renukanandan Tumu et. al.                                                                                                                                                                                      |
-| **[QuadWBG: Generalizable Quadrupedal Whole-Body Grasping](https://arxiv.org/abs/2411.06782)**<br>Jilong Wang, Javokhirbek Rajabov, Chaoyi Xu, Yiming Zheng, He Wang                                                                                                              |
-| **RaSCL: Radar to Satellite Crossview Localization**<br>Blerim Abdullai et. al.                                                                                                                                                                                                   |
-| **[Reactive Collision Avoidance for Safe Agile Navigation](https://arxiv.org/pdf/2409.11962)**<br>Alessandro Saviolo, Niko Picello, Jeffrey Mao, Rishabh Verma, Giuseppe Loianno                                                                                                  |
-| **[Robotics Under Construction: Challenges on Job Sites](https://arxiv.org/abs/2506.19597)**<br>Haruki Uchiito, Akhilesh Bhat, Koji Kusaka, Xiaoya Zhang, Hiraku Kinjo, Honoka Uehara, Motoki Koyama, Shinji Natsume                                                              |
-| **[SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments](https://arxiv.org/abs/2505.08230)**<br>Hogyun Kim, Jiwon Choi, Juwon Kim, Geonmo Yang, Dongjin Cho, Hyungtae Lim, Younggun Cho                              |
-| **SynthFuseKD: Enhancing Off-Road Semantic Segmentation with Synthetic NIR Generation and Knowledge Distillation**<br>Wonjune Kim et. al.                                                                                                                                         |
-| **[T-CBF: Traversability-based Control Barrier Function to Navigate Vertically Challenging Terrain](https://arxiv.org/abs/2503.06083)**<br>Manas Gupta, Xuesu Xiao                                                                                                                |
-| **[TartanGround-FR: A Large-Scale Dataset for Ground Robot Perception and Navigation in Unstructured Environments](https://arxiv.org/abs/2505.10696)**<br>Manthan Patel, Fan Yang, Yuheng Qiu, Cesar Cadena, Sebastian Scherer, Marco Hutter, Wenshan Wang                        |
-| **[Toward Teach and Repeat Across Seasonal Deep Snow Accumulation](https://arxiv.org/abs/2505.01339)**<br>Matěj Boxan, Alexander Krawciw, Timothy D. Barfoot, François Pomerleau                                                                                                  |
-| **[Towards Autonomous In-situ Soil Sampling and Mapping in Large-Scale Agricultural Environments](https://arxiv.org/abs/2506.05653)**<br>Thien Hoang Nguyen, Erik Muller, Michael Rubin, Xiaofei Wang, Fiorella Sibona, Salah Sukkarieh                                           |
-| **[Towards Terrain-Aware Task-Driven 3D Scene Graph Generation in Outdoor Environments](https://arxiv.org/abs/2506.06562)**<br>Chad R Samuelson, Timothy W McLain, Joshua G Mangelson                                                                                             |
-| **Trajectory Planning and Control for Differentially Flat Fixed-Wing Aerial Systems**<br>Luca Morando et. al.                                                                                                                                                                     |
-| **[Uncertainty Aware Mapping for Vision-Based Underwater Robots](http://arxiv.org/abs/2507.10991)**<br>Abhimanyu Bhowmik, Mohit Singh, Madhushree Sannigrahi, Martin Ludvigsen, Kostas Alexis                                                                                     |
-| **[Verti-Bench: A General and Scalable Off-Road Mobility Benchmark for Vertically Challenging Terrain](https://arxiv.org/pdf/2502.11426)**<br>Tong Xu, Chenhui Pan, Madhan B. Rao, Aniket Datar, Anuj Pokhrel, Yuanjie Lu, Xuesu Xiao                                             |
-| **[VertiSelector: Automatic Curriculum Learning for Wheeled Mobility on Vertically Challenging Terrain](https://arxiv.org/pdf/2409.17469)**<br>Tong Xu, Chenhui Pan, Xuesu Xiao                                                                                                   |
-| **[Whole-Body End-Effector Pose Tracking](https://arxiv.org/pdf/2409.16048)**<br>Tifanny Portela, Andrei Cramariuc, Mayank Mittal, Marco Hutter                                                                                                                                   |
-
-
 ## Important dates
 
-- Paper submission deadline: March 30, 2025, 11:59 p.m. (Anywhere on Earth)
-- Poster notification of acceptance:  ~~April 15, 2025~~ April 17, 2025
-- Spotlight talks notification of acceptance: April 29, 2025
-- Camera-ready submission: June 2025
-- Workshop date: May 19, 2025
+- Paper submission deadline: TBD (Anywhere on Earth)
+- Poster notification of acceptance:  TBD
+- Spotlight talks notification of acceptance: TBD
+- Camera-ready submission: TBD
+- Workshop date: TBD
 
 The best submissions will be invited to submit a full-length paper in a Special Issue of the [IEEE Transactions on Field Robotics](https://www.ieee-ras.org/publications/t-fr).
 
-- Official Invitations sent: June 2025
-- Deadline of submission to IEEE T-FR: October 2025
+- Official Invitations sent: TBD
+- Deadline of submission to IEEE T-FR: TBD
 
 # Context
 <div style="text-align: justify">
