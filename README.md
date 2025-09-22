@@ -426,3 +426,10 @@ Any questions about the competition can be directed at [field-robotics-competiti
     </tr>
   </table>
 </div>
+
+
+
+## Previous Editions
+
+- [2025 Workshop on Field Robotics](https://norlab-ulaval.github.io/workshop_field_robotics_icra2025/)
+- [2024 Workshop on Field Robotics](https://norlab-ulaval.github.io/workshop_field_robotics_icra2024/)
