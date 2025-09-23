@@ -1,4 +1,4 @@
-![field robot image](images/banner_white.jpg)
+![workshop logo](images/logo_WFR_2026.png)
 
 ## Important dates
 
