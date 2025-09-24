@@ -43,7 +43,7 @@ All invited speakers are confirmed.
 | 17:10 - 17:30   | Organizers                      | Conclusion |
 
 
-***Note**: All times are in the local time zone of ICRA 2025 (Atlanta).
+***Note**: All times are in the local time zone of ICRA 2026 (Vienna)
 
 
 # Speakers  
