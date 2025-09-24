@@ -75,51 +75,13 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/Robin_Murphy.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/r_seigwart.jpeg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>30 Years of Robotics for Disasters</h3>
-        <strong>Robin Murphy</strong><br/>
-        <em>Texas A&M University</em>  <br/>
-        <a href="https://engineering.tamu.edu/cse/profiles/rmurphy.html">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/Kazuya_Yoshida.jpg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Terrestrial field tests for a modular and heterogeneous AI robot system
-for lunar exploration</h3>
-        <strong>Kazuya Yoshida</strong><br/>
-        <em>Tohoku University</em>  <br/>
-        <a href="http://www.astro.mech.tohoku.ac.jp/e/">Personal website</a> <br/>
-        <a href="https://srl-moonshot.mech.tohoku.ac.jp/index.en.html">Moonshot Program</a>   
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/Marco_Hutter.jpeg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Robot Navigation with Common Sense</h3>
-        <strong>Marco Hutter</strong><br/>
+        <h3> From Robot Design to Navigation and Scene Understanding</h3>
+        <strong>Roland Siegwart</strong><br/>
         <em>ETH Zurich</em>  <br/>
-        <a href="https://rsl.ethz.ch/the-lab/people/person-detail.html?persid=121911">Personal website</a>
+        <a href="https://mavt.ethz.ch/people/person-detail.siegwart.html">Personal website</a>
       </div>
 </div>
 
@@ -131,13 +93,14 @@ for lunar exploration</h3>
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/Frank_Dellaert.jpg" alt="Image" width="150" height="150" />
+         src="images/speakers/n_mahmoudian.jpeg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Precision Robotics for Agriculture 2.0</h3>
-        <strong>Frank Dellaert</strong><br/>
-        <em>Georgia Institute of Technology</em>  <br/>
-        <a href="https://dellaert.github.io/">Personal website</a>
+        <h3>Low-cost maritime fleet planning and operation</h3>
+        <strong>Nina Mahmoudian</strong><br/>
+        <em>Purdue University
+</em>  <br/>
+        <a href="https://engineering.purdue.edu/ME/People/ptProfile?resource_id=211078">Personal website</a> <br/>
       </div>
 </div>
 
@@ -149,13 +112,13 @@ for lunar exploration</h3>
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/Joshua_Marshall.webp" alt="Image" width="150" height="150" />
+         src="images/speakers/c_pradalier.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Digging Deep: Robotics for Mining in the 21st Century</h3>
-        <strong>Josh Marshall</strong><br/>
-        <em>Queen’s University</em>  <br/>
-        <a href="https://www.queensu.ca/offroad-robotics/people/joshua-marshall ">Personal website</a>
+        <h3>Corrosion Detection on Outer Ship Hulls and Storage Tanks</h3>
+        <strong>Cédric Pradalier</strong><br/>
+        <em>Georgia Tech Europe</em>  <br/>
+        <a href="https://dream.georgiatech-metz.fr/people/person-detail/cpradalier/">Personal website</a>
       </div>
 </div>
 
@@ -167,13 +130,49 @@ for lunar exploration</h3>
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/Gregory_Dudek.jpeg" alt="Image" width="150" height="150" />
+         src="images/speakers/s_williams.jpeg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>AI-powered robotics for marine applications</h3>
-        <strong>Gregory Dudek</strong><br/>
-        <em>McGill University</em>  <br/>
-        <a href="https://www.mcgill.ca/cim/dudek/">Personal website</a>
+        <h3>The development of highly manoeuvrable AUV systems for offshore environmental and asset inspection operations</h3>
+        <strong>Stefan Williams</strong><br/>
+        <em>University of Sydney</em>  <br/>
+        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/stefan-williams.html">Personal website</a>
+      </div>
+</div>
+
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/k_driggs_campbell.jpeg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Towards Agricultural Robots with Humans in and on the Loop</h3>
+        <strong>Katie Driggs-Campbell</strong><br/>
+        <em> University of Illinois Urbana-Champaign</em>  <br/>
+        <a href="https://ece.illinois.edu/about/directory/faculty/krdc">Personal website</a>
+      </div>
+</div>
+
+<div style="clear:left;">
+</div>
+<br>
+
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/speakers/f_zhang.jpg" alt="Image" width="150" height="150" />
+    </div>
+      <div class="text">
+        <h3>Lidar-centric navigation for field drones</h3>
+        <strong>Fu Zhang</strong><br/>
+        <em>University of Hong Kong</em>  <br/>
+        <a href="https://mech.hku.hk/academic-staff/zhang-f">Personal website</a>
       </div>
 </div>
 
@@ -198,14 +197,19 @@ The workshop topics include, but are not limited to:
 
 ## Submission guidelines
 
-FR workshop accepts contributions based on the following criteria:
+The selection of the participants for the poster sessions will be based on submitted posters, following these criteria:
 
-- The submission should be from 2 to 8 pages long. The paper should follow the [IEEE RAS template](http://ras.papercept.net/conferences/support/tex.php).
-- The review process is single-blind.
-- Submissions should contain a clear focus on field robotics and feature lessons learned and/or field experience reports.
-- We welcome prospective and conceptual papers as well.
-- The papers should be submitted on [Microsoft CMT](https://cmt3.research.microsoft.com/FRICRA2025).
-- Accepted papers will be available on the workshop website. The authors of accepted papers will be invited to present their results in a poster session during the workshop.
+The selection of the participants for the poster sessions will be based on submitted posters, following these criteria:
+- Relevance of the contribution with respect to field robotics (e.g., unacceptable would be only simulation, weak would be on a campus, strong would include challenging outdoor and remote locations;
+- Evidence of the proposed results based on field experiments (e.g., weak would be a single experiment, strong would be multiple visits to a site or multiple sites);
+Quality of the analysis (e.g., unacceptable would be anecdotal results, weak would be qualitative results or time series, strong would be quantitative results with statistical evidence).
+
+
+- The posters should be submitted on [Microsoft CMT](https://cmt3.research.microsoft.com/FRICRA2025).
+
+In addition to a poster presentation, a subselection of the submitted posters will be made for rapid-fire talks to provide added exposure to emerging researchers (e.g., PhD students, early career professors). This selection will be made based on:
+The potential for visually interesting results;
+Meaningfulness of the lessons learned through field experiments and expert interviews.
 
 # Competition
 
@@ -259,26 +263,6 @@ Please visit the competition websites for more details:
 </div>
 <br>
 
-<div class="container">
-    <div class="image">
-    <a href="https://purl.org/crl/slam">
-    <img style="float:left; 
-                    border-radius: 20px; 
-                    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);"
-         align='middle'
-         src="images/competition/slam_robotic_competition.jpg" alt="Image" width="150" height="150" />
-    </a>
-    </div>
-      <div class="text" style="padding-top: 40px">
-        <strong style="padding-left: 30px">SLAM Robotic Competition</strong><br/>
-        <em style="padding-left: 30px">500€ prize money for the 1st place team</em><br/>
-        <a style="padding-left: 30px" href="https://purl.org/crl/slam">Codabench website</a>
-      </div>
-</div>
-<div style="clear:left;">
-</div>
-<br>
-
 Any questions about the competition can be directed at [field-robotics-competition-icra-25@googlegroups.com](mailto:field-robotics-competition-icra-25@googlegroups.com?subject=Question%20regarding%20the%20Field%20Robotics%20Dataset%20Competitions).
 
 # Organizers
@@ -293,54 +277,6 @@ Any questions about the competition can be directed at [field-robotics-competiti
         <strong>François Pomerleau</strong><br/>
         <em>Université Laval</em><br/>
         <a href="https://norlab.ulaval.ca/people/f_pomerleau/">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/organizers/tim_barfoot.webp" alt="Image" width="80" height="80" />
-    </div>
-      <div class="text">
-        <strong>Tim Barfoot</strong><br/>
-        <em>University of Toronto</em> <br/>
-        <a href="http://asrl.utias.utoronto.ca/~tdb/">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/organizers/keiji_nagatani.jpg" alt="Image" width="80" height="80" />
-    </div>
-      <div class="text">
-        <strong>Keiji Nagatani</strong><br/>
-        <em>University of Tsukuba</em> <br/>
-        <a href="http://k-nagatani.org/">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/organizers/philippe_giguere.webp" alt="Image" width="80" height="80" />
-    </div>
-      <div class="text">
-        <strong>Philippe Giguère</strong><br/>
-        <em>Université Laval</em> <br/>
-        <a href="https://norlab.ulaval.ca/people/p_giguere_fr/">Personal website</a>
       </div>
 </div>
 
@@ -383,16 +319,32 @@ Any questions about the competition can be directed at [field-robotics-competiti
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/sven_lilge.jpg" alt="Image" width="80" height="80" />
+         src="images/organizers/Marco_Hutter.jpg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
-        <strong>Sven Lilge </strong><br/>
-        <em>University of Toronto</em> <br/>
-        <a href="https://svenlilge.github.io/">Personal website</a>
+        <strong>Marco Hutter</strong><br/>
+        <em>ETH Zurich</em> <br/>
+        <a href="https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html">Personal website</a>
       </div>
 </div>
 <br>
 
+<div style="clear:left;">
+</div>
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/organizers/Stéphanie_Aravecchia.jpg" alt="Image" width="80" height="80" />
+    </div>
+      <div class="text">
+        <strong>Stéphanie Aravecchia</strong><br/>
+        <em> Georgia Tech Europe</em> <br/>
+        <a href="https://dream.georgiatech-metz.fr/people/person-detail/saravecchia/">Personal website</a>
+      </div>
+</div>
+<br>
 
 
 
