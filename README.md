@@ -75,7 +75,7 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/r_seigwart.jpeg" alt="Image" width="150" height="150" />
+         src="images/speakers/r_siegwart.jpeg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
         <h3> From Robot Design to Navigation and Scene Understanding</h3>
@@ -319,7 +319,7 @@ Any questions about the competition can be directed at [field-robotics-competiti
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/organizers/Marco_Hutter.jpg" alt="Image" width="80" height="80" />
+         src="images/organizers/Marco_Hutter.jpeg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
         <strong>Marco Hutter</strong><br/>
