@@ -2,16 +2,16 @@
 
 ## Important dates
 
-- Paper submission deadline: TBD (Anywhere on Earth)
-- Poster notification of acceptance:  TBD
-- Spotlight talks notification of acceptance: TBD
-- Camera-ready submission: TBD
+- Submission deadline:  March 15, 2026, 11:59 p.m. (Anywhere on Earth)
+- Poster notification of acceptance:  April 1st, 2026
+- Spotlight talks notification of acceptance: April 10, 2026
+- Camera-ready submission: May 10, 2026, 11:59 p.m. (Anywhere on Earth)
 - Workshop date: TBD
 
 The best submissions will be invited to submit a full-length paper in a Special Issue of the [IEEE Transactions on Field Robotics](https://www.ieee-ras.org/publications/t-fr).
 
-- Official Invitations sent: TBD
-- Deadline of submission to IEEE T-FR: TBD
+- Official Invitations sent: September-October 2026
+- Deadline of submission to IEEE T-FR: February 2027
 
 # Context
 <div style="text-align: justify">
