@@ -26,21 +26,21 @@ All invited speakers are confirmed.
 
 | **Time**                | **Speaker**                                | **Topic/title**                                                                 |
 |---------------------|----------------------------------------|------------------------------------------------------------------------------|
-| 8:30 - 8:50     | Organizers                      | Welcome and opening remarks |
-| 8:50 - 9:20     | Stefan Williams (University of Sydney) | Tentative title: *The development of highly maneuverable AUV systems for offshore environmental and asset inspection operations* |
-| 9:20 - 9:40     | Five emerging researchers       | Spotlight talks (3 min/pers) |
-| 9:40 - 10:40    | **Coffee break and poster session**                               | - |
-| 10:40 - 11:10   | Cédric Pradalier (Georgia Tech Europe) | Invited talk #2 - Tentative title: *Corrosion Detection on Outer Ship Hulls and Storage Tanks* |
-| 11:10 - 11:40   | Nina Mahmoudian (Purdue University) | Invited talk #3 - Tentative title: *Adaptive Autonomy for Field Robotics: Enabling Extended Missions in Challenging Environments* |
-| 11:40 - 13:00   | **Lunch**                               |  - |
-| 13:00 - 14:00   | Roland Siegwart (ETH Zurich)    | Keynote - Tentative title: *30 years of deployments – From Robot Design to Navigation and Scene Understanding* |
-| 14:00 - 14:30   | Panel                           | Questions: “How to improve the visibility of Chinese field roboticists?”, “What is the place of humanoid in field robotics?”, “Field robotics research requires more engineering than research based on datasets or simulation, not necessarily easy to publish, how to valorize this effort in a PhD?”, “With the increasing commercialization of field robotics, are academic labs becoming irrelevant, or are they a vital source of high-risk, long-term research that industry is unwilling to fund?” |
-| 14:30 - 14:50   | Five emerging researchers       | Spotlight talks (3 min/pers) |
-| 14:50 - 15:50   | **Coffee break and poster session**                               | - |
-| 15:50 - 16:10   | Organizers                      | Result announcement for the dataset competition |
-| 16:10 - 16:40   | Fu Zhang (University of Hong Kong) | Invited talk #4 - Tentative title: *Lidar-centric Navigation for Field Drones* |
-| 16:40 - 17:10   | Katie Driggs-Campbell (University of Illinois Urbana-Champaign) | Invited talk #5 - Tentative title: *Towards Agricultural Robots with Humans in and on the Loop* |
-| 17:10 - 17:30   | Organizers                      | Conclusion |
+| 8:30- 8:50     | Organizers                      | Welcome and opening remarks |
+| 8:50- 9:20     | **Stefan Williams** (University of Sydney) | Tentative title: *The development of highly maneuverable AUV systems for offshore environmental and asset inspection operations* |
+| 9:20- 9:40     | Five emerging researchers       | Spotlight talks (3 min/pers) |
+| 9:40- 10:40    | **Coffee break and poster session**                               | - |
+| 10:40- 11:10   | **Cédric Pradalier** (Georgia Tech Europe) | Invited talk #2 - Tentative title: *Corrosion Detection on Outer Ship Hulls and Storage Tanks* |
+| 11:10- 11:40   | Nina Mahmoudian (Purdue University) | Invited talk #3 - Tentative title: *Adaptive Autonomy for Field Robotics: Enabling Extended Missions in Challenging Environments* |
+| 11:40- 13:00   | **Lunch**                               |  - |
+| 13:00- 14:00   | **Roland Siegwart** (ETH Zurich)    | Keynote - Tentative title: *30 years of deployments – From Robot Design to Navigation and Scene Understanding* |
+| 14:00- 14:30   | Panel                           | - |
+| 14:30- 14:50   | Five emerging researchers       | Spotlight talks (3 min/pers) |
+| 14:50- 15:50   | **Coffee break and poster session**                               | - |
+| 15:50- 16:10   | Organizers                      | Result announcement for the dataset competition |
+| 16:10- 16:40   | **Fu Zhang** (University of Hong Kong) | Invited talk #4 - Tentative title: *Lidar-centric Navigation for Field Drones* |
+| 16:40- 17:10   | **Katie Driggs-Campbell** (University of Illinois Urbana-Champaign) | Invited talk #5 - Tentative title: *Towards Agricultural Robots with Humans in and on the Loop* |
+| 17:10- 17:30   | Organizers                      | Conclusion |
 
 
 ***Note**: All times are in the local time zone of ICRA 2026 (Vienna)
