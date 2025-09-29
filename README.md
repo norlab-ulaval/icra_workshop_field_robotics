@@ -213,10 +213,9 @@ Meaningfulness of the lessons learned through field experiments and expert inter
 
 # Competition
 
-This year, the field robotics workshop features multiple competition tracks designed to address key challenges in field robot deployment.
-The competition focuses on SLAM and vision-based tasks of 2D and 3D Semantic Segmentation in challenging environments like dense vegetation. 
-Participants have access to extensive datasets, including recordings from wheeled, tracked, and multi-legged robots navigating challenging off-road terrains from the [GOOSE](https://goose-dataset.de/) and [GOOSE-Ex](https://arxiv.org/pdf/2409.18788) dataset. 
-The SLAM dataset features radar-based perception data for off-road environments and multispectral data for scenarios where passive sensors are crucial. 
+The field robotics workshop features multiple competition tracks designed to address key challenges in field robot deployment.
+The competition focuses on the vision-based tasks of 2D and 3D Semantic Segmentation in challenging outdoor environments. 
+Participants have access to extensive datasets, including recordings from wheeled, tracked, and multi-legged robots navigating challenging off-road terrains from the [GOOSE](https://goose-dataset.de/) and [GOOSE-Ex](https://arxiv.org/pdf/2409.18788) dataset.
 
 The top-performing teams are invited to present their results during the workshop poster sessions and receive prizes.
 The competitions are open to all field robotics researchers and practitioners.
@@ -235,8 +234,8 @@ Please visit the competition websites for more details:
     </div>
       <div class="text" style="padding-top: 40px">
         <strong style="padding-left: 30px">GOOSE 2D Semantic Segmentation Challenge</strong><br/>
-        <em style="padding-left: 30px">1000€ gift voucher for the 1st place team</em><br/>
-        <a style="padding-left: 30px" href="https://tinyurl.com/goose-2d-challenge">Codabench website</a>
+        <em style="padding-left: 30px">1000€ voucher for the 1st place team</em><br/>
+        <a style="padding-left: 30px" href="#">Codabench Website</a>
       </div>
 </div>
 <div style="clear:left;">
@@ -255,8 +254,8 @@ Please visit the competition websites for more details:
     </div>
       <div class="text" style="padding-top: 40px">
         <strong style="padding-left: 30px">GOOSE 3D Semantic Segmentation Challenge</strong><br/>
-        <em style="padding-left: 30px">500€ gift voucher for the 1st place team</em><br/>
-        <a style="padding-left: 30px" href="https://tinyurl.com/goose-3d-challenge">Codabench website</a>
+        <em style="padding-left: 30px">1000€ voucher for the 1st place team</em><br/>
+        <a style="padding-left: 30px" href="#">Codabench Website</a>
       </div>
 </div>
 <div style="clear:left;">
