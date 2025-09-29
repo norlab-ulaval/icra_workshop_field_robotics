@@ -346,6 +346,23 @@ Any questions about the competition can be directed at [field-robotics-competiti
 </div>
 <br>
 
+<div style="clear:left;">
+</div>
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
+         src="images/organizers/Edith_Brotherton.jpg" alt="Image" width="80" height="80" />
+    </div>
+      <div class="text">
+        <strong>Edith Brotherton</strong><br/>
+        <em>Université Laval</em> <br/>
+        <a href="https://norlab.ulaval.ca/people/e_brotherton_fr/">Personal website</a>
+      </div>
+</div>
+<br>
+
 
 
 ## Competition Organizers
