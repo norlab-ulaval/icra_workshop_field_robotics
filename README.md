@@ -235,7 +235,7 @@ Please visit the competition websites for more details:
       <div class="text" style="padding-top: 40px">
         <strong style="padding-left: 30px">GOOSE 2D Semantic Segmentation Challenge</strong><br/>
         <em style="padding-left: 30px">1000€ voucher for the 1st place team</em><br/>
-        <a style="padding-left: 30px" href="#">Codabench Website</a>
+        <a style="padding-left: 30px" href="#">Codabench Website (coming soon)</a>
       </div>
 </div>
 <div style="clear:left;">
@@ -255,7 +255,7 @@ Please visit the competition websites for more details:
       <div class="text" style="padding-top: 40px">
         <strong style="padding-left: 30px">GOOSE 3D Semantic Segmentation Challenge</strong><br/>
         <em style="padding-left: 30px">1000€ voucher for the 1st place team</em><br/>
-        <a style="padding-left: 30px" href="#">Codabench Website</a>
+        <a style="padding-left: 30px" href="#">Codabench Website (coming soon)</a>
       </div>
 </div>
 <div style="clear:left;">
