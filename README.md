@@ -211,59 +211,6 @@ In addition to a poster presentation, a subselection of the submitted posters wi
 The potential for visually interesting results;
 Meaningfulness of the lessons learned through field experiments and expert interviews.
 
-# Competition
-
-The field robotics workshop features multiple competition tracks designed to address key challenges in field robot deployment.
-The competition focuses on the vision-based tasks of 2D and 3D Semantic Segmentation in challenging outdoor environments. 
-Participants have access to extensive datasets, including recordings from wheeled, tracked, and multi-legged robots navigating challenging off-road terrains from the [GOOSE](https://goose-dataset.de/) and [GOOSE-Ex](https://arxiv.org/pdf/2409.18788) dataset.
-
-The top-performing teams are invited to present their results during the workshop poster sessions and receive prizes.
-The competitions are open to all field robotics researchers and practitioners.
-
-Please visit the competition websites for more details:
-
-<div class="container">
-    <div class="image">
-    <a href="https://tinyurl.com/goose-2d-challenge">
-    <img style="float:left; 
-                    border-radius: 20px; 
-                    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);"
-         align='middle'
-         src="images/competition/goose_2d_competition.gif" alt="Image" width="150" height="150" />
-    </a>
-    </div>
-      <div class="text" style="padding-top: 40px">
-        <strong style="padding-left: 30px">GOOSE 2D Semantic Segmentation Challenge</strong><br/>
-        <em style="padding-left: 30px">1000€ voucher for the 1st place team</em><br/>
-        <a style="padding-left: 30px" href="#">Codabench Website (coming soon)</a>
-      </div>
-</div>
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <a href="https://tinyurl.com/goose-3d-challenge">
-    <img style="float:left; 
-                    border-radius: 20px; 
-                    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);"
-         align='middle'
-         src="images/competition/goose_3d_competition.gif" alt="Image" width="150" height="150" />
-    </a>
-    </div>
-      <div class="text" style="padding-top: 40px">
-        <strong style="padding-left: 30px">GOOSE 3D Semantic Segmentation Challenge</strong><br/>
-        <em style="padding-left: 30px">1000€ voucher for the 1st place team</em><br/>
-        <a style="padding-left: 30px" href="#">Codabench Website (coming soon)</a>
-      </div>
-</div>
-<div style="clear:left;">
-</div>
-<br>
-
-Any questions about the competition can be directed at [field-robotics-competition-icra-25@googlegroups.com](mailto:field-robotics-competition-icra-25@googlegroups.com?subject=Question%20regarding%20the%20Field%20Robotics%20Dataset%20Competitions).
-
 # Organizers
 
 <div class="container">
@@ -361,39 +308,6 @@ Any questions about the competition can be directed at [field-robotics-competiti
       </div>
 </div>
 <br>
-
-
-
-## Competition Organizers
-<div style="text-align: center;">
-  <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
-    <tr>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/workshop/jan_faigl.png" alt="Jan Faigl" style="max-width: 80px; height: auto;"><br><strong>Jan Faigl</strong>
-      </td>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/workshop/gerald_steinbauer_wagner.jpg" alt="Gerald Steinbauer-Wagner" style="max-width: 80px; height: auto;"><br><strong>Gerald Steinbauer-Wagner</strong>
-      </td>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/workshop/milos_pragr.jpg" alt="Miloš Prágr" style="max-width: 80px; height: auto;"><br><strong>Miloš Prágr</strong>
-      </td>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/workshop/raphael_hagmanns.jpg" alt="Raphael Hagmanns" style="max-width: 80px; height: auto;"><br><strong>Raphael Hagmanns</strong>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/workshop/miguel_granero.jpeg" alt="Miguel Granero" style="max-width: 80px; height: auto;"><br><strong>Miguel Granero</strong>
-      </td>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/workshop/vladimir_kubelka.jpg" alt="Vladimír Kubelka" style="max-width: 80px; height: auto;"><br><strong>Vladimír Kubelka</strong>
-      </td>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/workshop/peter_mortimer.jpg" alt="Peter Mortimer" style="max-width: 80px; height: auto;"><br><strong>Peter Mortimer</strong>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 
