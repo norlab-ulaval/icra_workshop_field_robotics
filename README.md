@@ -201,7 +201,7 @@ The selection of the participants for the poster sessions will be based on submi
 - Evidence of the proposed results based on field experiments (e.g., weak would be a single experiment, strong would be multiple visits to a site or multiple sites);
 - Quality of the analysis (e.g., unacceptable would be anecdotal results, weak would be qualitative results or time series, strong would be quantitative results with statistical evidence).
   
-- The posters should be submitted on [Microsoft CMT](https://cmt3.research.microsoft.com/FRICRA2025).
+- The posters should be submitted on [Microsoft CMT](https://cmt3.research.microsoft.com/FRICRA2026).
 
 In addition to a poster presentation, a subselection of the submitted posters will be made for rapid-fire talks to provide added exposure to emerging researchers (e.g., PhD students, early career professors). This selection will be made based on:
 - Current status and affiliation of the first author (must qualify as emerging);
