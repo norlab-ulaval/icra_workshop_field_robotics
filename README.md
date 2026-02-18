@@ -314,3 +314,12 @@ Meaningfulness of the lessons learned through field experiments and expert inter
 
 - [2025 Workshop on Field Robotics](https://norlab-ulaval.github.io/workshop_field_robotics_icra2025/)
 - [2024 Workshop on Field Robotics](https://norlab-ulaval.github.io/workshop_field_robotics_icra2024/)
+
+
+<hr>
+
+<footer>
+<p style="font-size: 0.8em; color: gray;">
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+</p>
+</footer>
