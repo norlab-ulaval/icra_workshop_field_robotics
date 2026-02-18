@@ -199,12 +199,15 @@ The workshop topics include, but are not limited to:
 The selection of the participants for the poster sessions will be based on submitted posters, following these criteria:
 - Relevance of the contribution with respect to field robotics (e.g., unacceptable would be only simulation, weak would be on a campus, strong would include challenging outdoor and remote locations;
 - Evidence of the proposed results based on field experiments (e.g., weak would be a single experiment, strong would be multiple visits to a site or multiple sites);
-Quality of the analysis (e.g., unacceptable would be anecdotal results, weak would be qualitative results or time series, strong would be quantitative results with statistical evidence).
+- Quality of the analysis (e.g., unacceptable would be anecdotal results, weak would be qualitative results or time series, strong would be quantitative results with statistical evidence).
+  
 - The posters should be submitted on [Microsoft CMT](https://cmt3.research.microsoft.com/FRICRA2025).
 
 In addition to a poster presentation, a subselection of the submitted posters will be made for rapid-fire talks to provide added exposure to emerging researchers (e.g., PhD students, early career professors). This selection will be made based on:
+- Current status and affiliation of the first author (must qualify as emerging);
 - The potential for visually interesting results;
 - Meaningfulness of the lessons learned through field experiments and expert interviews.
+
 
 # Organizers
 
