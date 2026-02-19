@@ -74,13 +74,13 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/r_siegwart.jpeg" alt="Image" width="150" height="150" />
+         src="images/speakers/nicholas_roy.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3> From Robot Design to Navigation and Scene Understanding</h3>
-        <strong>Roland Siegwart</strong><br/>
-        <em>ETH Zurich</em>  <br/>
-        <a href="https://mavt.ethz.ch/people/person-detail.siegwart.html">Personal website</a>
+        <h3>Coming soon!</h3>
+        <strong>Nicholas Roy</strong><br/>
+        <em>MIT Computer Science & Artificial Intelligence Laboratory</em>  <br/>
+        <a href="https://aeroastro.mit.edu/people/nicholas-roy/">Personal website</a>
       </div>
 </div>
 
