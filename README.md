@@ -32,7 +32,7 @@ All invited speakers are confirmed.
 | 10:40- 11:10   | **Cédric Pradalier** (Georgia Tech Europe) | Invited talk #2 - Tentative title: **Corrosion Detection on Outer Ship Hulls and Storage Tanks** |
 | 11:10- 11:40   | Nina Mahmoudian (Purdue University) | Invited talk #3 - Tentative title: **Adaptive Autonomy for Field Robotics: Enabling Extended Missions in Challenging Environments** |
 | 11:40- 13:00   | Lunch                              |  - |
-| 13:00- 14:00   | **Roland Siegwart** (ETH Zurich)    | Keynote - Tentative title: **30 years of deployments – From Robot Design to Navigation and Scene Understanding** |
+| 13:00- 14:00   | **Nicholas Roy** (MIT)    | Keynote - Tentative title: **Coming soon** |
 | 14:00- 14:30   | Panel                           | - |
 | 14:30- 14:50   | Five emerging researchers       | Spotlight talks (3 min/pers) |
 | 14:50- 15:50   | Coffee break and poster session                               | - |
