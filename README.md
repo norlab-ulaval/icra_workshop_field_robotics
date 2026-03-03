@@ -208,6 +208,39 @@ In addition to a poster presentation, a subselection of the submitted posters wi
 - The potential for visually interesting results;
 - Meaningfulness of the lessons learned through field experiments and expert interviews.
 
+# Competition
+
+The field robotics workshop regularly features a competition track designed to address key challenges in field robot deployment.
+This year's competition focuses on the vision-based task of Fine-Grained 2D Semantic Segmentation in challenging outdoor environments. 
+Participants have access to extensive datasets, including recordings from wheeled, tracked, and multi-legged robots navigating challenging off-road terrains from the [GOOSE](https://goose-dataset.de/) and [GOOSE-Ex](https://arxiv.org/pdf/2409.18788) dataset.
+
+The top-performing teams are invited to present their results during the workshop poster sessions and receive prizes.
+The competitions are open to all field robotics researchers, enthusiasts and practitioners.
+
+Please visit the <a href="https://www.codabench.org/competitions/14257/">competition website</a> for more details:
+
+<div class="container">
+    <div class="image">
+    <a href="https://www.codabench.org/competitions/14257/">
+    <img style="float:left; 
+                    border-radius: 70px; 
+                    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);"
+         align='middle'
+         src="images/competition/goose_2d_fine_grained_competition.gif" alt="Image" width="150" height="150" />
+    </a>
+    </div>
+      <div class="text" style="padding-top: 40px">
+        <strong style="padding-left: 30px">GOOSE 2D Semantic Segmentation Challenge</strong><br/>
+        <em style="padding-left: 30px">500€ for the 1st place team</em><br/>
+        <a style="padding-left: 30px" href="https://www.codabench.org/competitions/14257/">Codabench Website</a>
+      </div>
+</div>
+<div style="clear:left;">
+</div>
+<br>
+
+Any questions about the competition can be communicated as a [new issue on the GOOSE Dataset repository](https://github.com/FraunhoferIOSB/goose_dataset/issues/new?title=GOOSE%202D%20Fine-Grained%20Semantic%20Segmentation%20Challenge%3A%20&body=Describe%20your%20competition%20submission%20here.&labels=competition).
+
 
 # Organizers
 
@@ -307,7 +340,26 @@ In addition to a poster presentation, a subselection of the submitted posters wi
 </div>
 <br>
 
-
+## Competition Organizers
+<div style="text-align: center;">
+  <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
+    <tr>
+      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
+        <img src="images/competition/nils_schacknat.jpg" alt="Miloš Prágr" style="max-width: 80px; height: auto;"><br><strong>Nils<br>Schacknat</strong>
+      </td>
+      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
+        <img src="images/competition/raphael_hagmanns.jpg" alt="Raphael Hagmanns" style="max-width: 80px; height: auto;"><br><strong>Raphael Hagmanns</strong>
+      </td>
+      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
+        <img src="images/competition/miguel_granero.jpeg" alt="Miguel Granero" style="max-width: 80px; height: auto;"><br><strong>Miguel Granero</strong>
+      </td>
+      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
+        <img src="images/competition/peter_mortimer.jpg" alt="Peter Mortimer" style="max-width: 80px; height: auto;"><br><strong>Peter Mortimer</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
 
 ## Previous Editions
 
