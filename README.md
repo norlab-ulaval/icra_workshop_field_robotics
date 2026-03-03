@@ -217,7 +217,7 @@ Participants have access to extensive datasets, including recordings from wheele
 The top-performing teams are invited to present their results during the workshop poster sessions and receive prizes.
 The competitions are open to all field robotics researchers, enthusiasts and practitioners.
 
-Please visit the competition website for more details:
+Please visit the <a href="https://www.codabench.org/competitions/14257/">competition website</a> for more details:
 
 <div class="container">
     <div class="image">
