@@ -2,9 +2,9 @@
 
 ## Important dates
 
-- Submission deadline:  ~April 10, 2026, 11:59 p.m.~ April 26, 2026, 11:59 p.m. (Anywhere on Earth)
-- Poster notification of acceptance:  ~April 20, 2026~ May 4, 2026
-- Spotlight talks notification of acceptance: ~April 25, 2026~ May 8, 2026
+- Submission deadline:  ~~April 10, 2026, 11:59 p.m.~~ April 26, 2026, 11:59 p.m. (Anywhere on Earth)
+- Poster notification of acceptance:  ~~April 20, 2026~~ May 4, 2026
+- Spotlight talks notification of acceptance: ~~April 25, 2026~~ May 8, 2026
 - Workshop date: June 5, 2026
 
 The best submissions will be invited to submit a full-length paper in a Special Issue of the [IEEE Transactions on Field Robotics](https://www.ieee-ras.org/publications/t-fr).
