@@ -30,7 +30,7 @@ All invited speakers are confirmed.
 | 9:20- 9:40     | Five emerging researchers       | Spotlight talks (3 min/pers) |
 | 9:40- 10:40    | Coffee break and poster session                               | - |
 | 10:40- 11:10   | **Cédric Pradalier** (Georgia Tech Europe) | Invited talk #2 - **Autonomous Robotic Inspection on Ship Hulls and Storage Tanks** |
-| 11:10- 11:40   | Nina Mahmoudian (Purdue University) | Invited talk #3 - **Field-deployable maritime autonomy through energy-aware planning, docking, and coordination** |
+| 11:10- 11:40   | **Nina Mahmoudian** (Purdue University) | Invited talk #3 - **Field-deployable maritime autonomy through energy-aware planning, docking, and coordination** |
 | 11:40- 13:00   | Lunch                              |  - |
 | 13:00- 14:00   | **Nicholas Roy** (MIT)    | Keynote - **Scaling field robotics in the age of LLMs** |
 | 14:00- 14:30   | Panel                           | - |
@@ -77,7 +77,7 @@ end speaker1-->
          src="images/speakers/nicholas_roy.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Coming soon!</h3>
+        <h3>Scaling field robotics in the age of LLMs</h3>
         <strong>Nicholas Roy</strong><br/>
         <em>MIT Computer Science & Artificial Intelligence Laboratory</em>  <br/>
         <a href="https://aeroastro.mit.edu/people/nicholas-roy/">Personal website</a>
@@ -95,7 +95,7 @@ end speaker1-->
          src="images/speakers/n_mahmoudian.jpeg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Low-cost maritime fleet planning and operation</h3>
+        <h3>Field-deployable maritime autonomy through energy-aware planning, docking, and coordination</h3>
         <strong>Nina Mahmoudian</strong><br/>
         <em>Purdue University
 </em>  <br/>
@@ -114,7 +114,7 @@ end speaker1-->
          src="images/speakers/c_pradalier.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Corrosion Detection on Outer Ship Hulls and Storage Tanks</h3>
+        <h3>Autonomous Robotic Inspection on Ship Hulls and Storage Tanks</h3>
         <strong>Cédric Pradalier</strong><br/>
         <em>Georgia Tech Europe</em>  <br/>
         <a href="https://dream.georgiatech-metz.fr/people/person-detail/cpradalier/">Personal website</a>
@@ -132,7 +132,7 @@ end speaker1-->
          src="images/speakers/s_williams.jpeg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>The development of highly manoeuvrable AUV systems for offshore environmental and asset inspection operations</h3>
+        <h3>Development of a highly manoeuvrable Autonomous Underwater Vehicle for benthic survey</h3>
         <strong>Stefan Williams</strong><br/>
         <em>University of Sydney</em>  <br/>
         <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/stefan-williams.html">Personal website</a>
@@ -152,7 +152,7 @@ end speaker1-->
       <div class="text">
         <h3>Towards Agricultural Robots with Humans in and on the Loop</h3>
         <strong>Katie Driggs-Campbell</strong><br/>
-        <em> University of Illinois Urbana-Champaign</em>  <br/>
+        <em>Towards Agricultural Robots with Humans in and on the Loop</em>  <br/>
         <a href="https://ece.illinois.edu/about/directory/faculty/krdc">Personal website</a>
       </div>
 </div>
@@ -168,7 +168,7 @@ end speaker1-->
          src="images/speakers/f_zhang.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Lidar-centric navigation for field drones</h3>
+        <h3>Lidar-centric Navigation for Field Drones</h3>
         <strong>Fu Zhang</strong><br/>
         <em>University of Hong Kong</em>  <br/>
         <a href="https://mech.hku.hk/academic-staff/zhang-f">Personal website</a>
