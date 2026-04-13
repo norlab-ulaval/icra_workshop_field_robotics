@@ -26,7 +26,7 @@ All invited speakers are confirmed.
 | **Time**                | **Speaker**                                | **Topic/title**                                                                 |
 |---------------------|----------------------------------------|------------------------------------------------------------------------------|
 | 8:30- 8:50     | Organizers                      | Welcome and opening remarks |
-| 8:50- 9:20     | **Stefan Williams** (University of Sydney) | **Development of a highly manoeuvrable Autonomous Underwater Vehicle for benthic survey** |
+| 8:50- 9:20     | **Stefan Williams** (University of Sydney) | Invited talk #1 - **Development of a highly manoeuvrable Autonomous Underwater Vehicle for benthic survey** |
 | 9:20- 9:40     | Five emerging researchers       | Spotlight talks (3 min/pers) |
 | 9:40- 10:40    | Coffee break and poster session                               | - |
 | 10:40- 11:10   | **Cédric Pradalier** (Georgia Tech Europe) | Invited talk #2 - **Autonomous Robotic Inspection on Ship Hulls and Storage Tanks** |
