@@ -25,18 +25,18 @@ All invited speakers are confirmed.
 
 | **Time**                | **Speaker**                                | **Topic/title**                                                                 |
 |---------------------|----------------------------------------|------------------------------------------------------------------------------|
-| 8:30- 8:50     | Organizers                      | Welcome and opening remarks |
-| 8:50- 9:20     | **Stefan Williams** (University of Sydney) | Invited talk #1 - **Development of a highly manoeuvrable Autonomous Underwater Vehicle for benthic survey** |
-| 9:20- 9:40     | Five emerging researchers       | Spotlight talks (3 min/pers) |
-| 9:40- 10:40    | Coffee break and poster session                               | - |
-| 10:40- 11:10   | **Cédric Pradalier** (Georgia Tech Europe) | Invited talk #2 - **Autonomous Robotic Inspection on Ship Hulls and Storage Tanks** |
-| 11:10- 11:40   | **Nina Mahmoudian** (Purdue University) | Invited talk #3 - **Field-deployable maritime autonomy through energy-aware planning, docking, and coordination** |
-| 11:40- 13:00   | Lunch                              |  - |
-| 13:00- 14:00   | **Nicholas Roy** (MIT)    | Keynote - **Scaling field robotics in the age of LLMs** |
-| 14:00- 14:30   | Panel                           | - |
-| 14:30- 14:50   | Five emerging researchers       | Spotlight talks (3 min/pers) |
-| 14:50- 15:50   | Coffee break and poster session                               | - |
-| 15:50- 16:10   | Organizers                      | Result announcement for the dataset competition |
+| 8:30- 9:00     | Organizers                      | Welcome and opening remarks |
+| 9:00- 9:30     | **Stefan Williams** (University of Sydney) | Invited talk #1 - **Development of a highly manoeuvrable Autonomous Underwater Vehicle for benthic survey** |
+| 9:30- 9:50     | Five emerging researchers       | Spotlight talks (3 min/pers) |
+| 9:50- 10:50    | Coffee break and poster session                               | - |
+| 10:50- 11:20   | **Cédric Pradalier** (Georgia Tech Europe) | Invited talk #2 - **Autonomous Robotic Inspection on Ship Hulls and Storage Tanks** |
+| 11:20- 11:50   | **Nina Mahmoudian** (Purdue University) | Invited talk #3 - **Field-deployable maritime autonomy through energy-aware planning, docking, and coordination** |
+| 11:50- 13:10   | Lunch                              |  - |
+| 13:10- 14:10   | **Nicholas Roy** (MIT)    | Keynote - **Scaling field robotics in the age of LLMs** |
+| 14:10- 14:40   | Panel                           | - |
+| 14:40- 15:00   | Five emerging researchers       | Spotlight talks (3 min/pers) |
+| 15:00- 16:00   | Coffee break and poster session                               | - |
+| 16:00- 16:10   | Organizers                      | Result announcement for the dataset competition |
 | 16:10- 16:40   | **Fu Zhang** (University of Hong Kong) | Invited talk #4 - **Lidar-centric Navigation for Field Drones** |
 | 16:40- 17:10   | **Katie Driggs-Campbell** (University of Illinois Urbana-Champaign) | Invited talk #5 - **Towards Agricultural Robots with Humans in and on the Loop** |
 | 17:10- 17:30   | Organizers                      | Conclusion |
