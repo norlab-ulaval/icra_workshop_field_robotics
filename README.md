@@ -3,7 +3,7 @@
 ## Important dates
 
 - Submission deadline:  ~~April 10, 2026, 11:59 p.m.~~ April 26, 2026, 11:59 p.m. (Anywhere on Earth)
-- Poster notification of acceptance:  ~~April 20, 2026~~ May 4, 2026
+- Poster notification of acceptance:  ~~April 20, 2026~~ ~~May 4, 2026~~ May 10, 2026 (estimated) <span style="color:red;">We are currently waiting for ICRA to confirm how many posters can be accommodated in our workshop. Thank you for your patience.</span>
 - Spotlight talks notification of acceptance: ~~April 25, 2026~~ May 8, 2026
 - Workshop date: June 5, 2026
 
