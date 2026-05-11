@@ -4,7 +4,7 @@
   <tr>
     <td style="width: 50%;"><strong>Sponsored by</strong></td>
     <td style="width: 50%; text-align: center;">
-    <td><img src="images/logo_gravis_robotics.png" alt="Sponsor logo" width="120"></td>
+    <img src="images/logo_gravis_robotics.png" alt="Sponsor logo" width="120">
     </td>
   </tr>
 </table>
