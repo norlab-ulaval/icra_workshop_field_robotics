@@ -1,5 +1,14 @@
 ![workshop logo](images/logo_WFR_2026.jpeg)
 
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%;"><strong>Sponsored by</strong></td>
+    <td style="width: 50%; text-align: center;">
+    <td><img src="images/logo_gravis_robotics.png" alt="Sponsor logo" width="120"></td>
+    </td>
+  </tr>
+</table>
+
 ## Important dates
 
 - Submission deadline:  ~~April 10, 2026, 11:59 p.m.~~ April 26, 2026, 11:59 p.m. (Anywhere on Earth)
