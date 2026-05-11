@@ -1,8 +1,8 @@
 ![workshop logo](images/logo_WFR_2026.jpeg)
 
-<table style="width: 100%;">
+<table style="width: 65%;">
   <tr>
-    <td style="width: 50%;"><strong>Sponsored by</strong></td>
+    <td style="width: 15%;"><strong>Sponsored by</strong></td>
     <td style="width: 50%; text-align: center;">
     <img src="images/logo_gravis_robotics.png" alt="Sponsor logo" width="120">
     </td>
