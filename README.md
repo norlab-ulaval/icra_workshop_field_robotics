@@ -45,8 +45,7 @@ All invited speakers are confirmed.
 | 14:10- 14:40   | Panel                           | - |
 | 14:40- 15:00   | Five emerging researchers       | Spotlight talks (3 min/pers) |
 | 15:00- 16:00   | Coffee break and poster session                               | - |
-| 16:00- 16:10   | Organizers                      | Result announcement for the dataset competition |
-| 16:10- 16:40   | **Fu Zhang** (University of Hong Kong) | Invited talk #4 - **Lidar-centric Navigation for Field Drones** |
+| 16:00- 16:40   | Organizers                      | Result announcement for the dataset competition |
 | 16:40- 17:10   | **Katie Driggs-Campbell** (University of Illinois Urbana-Champaign) | Invited talk #5 - **Towards Agricultural Robots with Humans in and on the Loop** |
 | 17:10- 17:30   | Organizers                      | Conclusion |
 
@@ -165,25 +164,6 @@ end speaker1-->
         <a href="https://ece.illinois.edu/about/directory/faculty/krdc">Personal website</a>
       </div>
 </div>
-
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/f_zhang.jpg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Lidar-centric Navigation for Field Drones</h3>
-        <strong>Fu Zhang</strong><br/>
-        <em>University of Hong Kong</em>  <br/>
-        <a href="https://mech.hku.hk/academic-staff/zhang-f">Personal website</a>
-      </div>
-</div>
-
 
 <div style="clear:left;">
 </div>
