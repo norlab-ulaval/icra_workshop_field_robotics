@@ -46,7 +46,7 @@ All invited speakers are confirmed.
 | 14:50- 15:10   | Five emerging researchers       | Spotlight talks (3 min/pers) |
 | 15:10- 16:10   | Coffee break and poster session                               | - |
 | 16:10- 16:40   | **Nina Mahmoudian** (Purdue University) | Invited talk #3 - **Field-deployable maritime autonomy through energy-aware planning, docking, and coordination** |
-| 16:40- 17:10   | **Katie Driggs-Campbell** (University of Illinois Urbana-Champaign) | Invited talk #5 - **Towards Agricultural Robots with Humans in and on the Loop** |
+| 16:40- 17:10   | **Katie Driggs-Campbell** (University of Illinois Urbana-Champaign) | Invited talk #4 - **Towards Agricultural Robots with Humans in and on the Loop** |
 | 17:10- 17:30   | Organizers                      | Conclusion |
 
 
