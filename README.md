@@ -137,13 +137,13 @@ end speaker1-->
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
-         src="images/speakers/s_williams.jpeg" alt="Image" width="150" height="150" />
+         src="images/speakers/T_Barfoot.jpg" alt="Image" width="150" height="150" />
     </div>
       <div class="text">
-        <h3>Development of a highly manoeuvrable Autonomous Underwater Vehicle for benthic survey</h3>
-        <strong>Stefan Williams</strong><br/>
-        <em>University of Sydney</em>  <br/>
-        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/stefan-williams.html">Personal website</a>
+        <h3>Lunar Cargo Logistics: Multi-Robot Cooperative Transport on the Moon</h3>
+        <strong>Tim Barfoot</strong><br/>
+        <em>University of Toronto</em>  <br/>
+        <a href="http://asrl.utias.utoronto.ca/~tdb/">Personal website</a>
       </div>
 </div>
 
