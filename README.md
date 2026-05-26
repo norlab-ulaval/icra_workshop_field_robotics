@@ -2,7 +2,7 @@
 
 <table style="width: 55%;">
   <tr>
-    <td style="width: 20%;"><strong>Sponsored by</strong></td>
+    <td style="width: 20%;"><strong>Sponsored by <a href="https://www.gravisrobotics.com/">Gravis Robotics</a> </strong></td>
     <td style="width: 35%; text-align: center;">
     <img src="images/logo_gravis_robotics.png" alt="Sponsor logo" width="80">
     </td>
@@ -11,9 +11,9 @@
 
 ## Important dates
 
-- Submission deadline:  ~~April 10, 2026, 11:59 p.m.~~ April 26, 2026, 11:59 p.m. (Anywhere on Earth)
-- Poster notification of acceptance:  ~~April 20, 2026~~ ~~May 4, 2026~~ May 10, 2026 (estimated) <span style="color:red;">We are currently waiting for ICRA to confirm how many posters can be accommodated in our workshop. Thank you for your patience.</span>
-- Spotlight talks notification of acceptance: ~~April 25, 2026~~ May 8, 2026
+- Submission deadline: April 26, 2026, 11:59 p.m. (Anywhere on Earth)
+- Poster notification of acceptance:  May 11, 2026
+- Spotlight talks notification of acceptance: May 12, 2026
 - Workshop date: June 5, 2026
 
 The best submissions will be invited to submit a full-length paper in a Special Issue of the [IEEE Transactions on Field Robotics](https://www.ieee-ras.org/publications/t-fr).
