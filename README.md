@@ -9,6 +9,9 @@
   </tr>
 </table>
 
+## Location
+**Room Stolz 1**
+
 ## Important dates
 
 - Submission deadline: April 26, 2026, 11:59 p.m. (Anywhere on Earth)
