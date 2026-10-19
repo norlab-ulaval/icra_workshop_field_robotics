@@ -414,6 +414,7 @@ Any questions about the competition can be communicated as a [new issue on the G
 
 ## Previous Editions
 
+- [2026 Workshop on Field Robotics](https://norlab-ulaval.github.io/workshop_field_robotics_icra2026/)
 - [2025 Workshop on Field Robotics](https://norlab-ulaval.github.io/workshop_field_robotics_icra2025/)
 - [2024 Workshop on Field Robotics](https://norlab-ulaval.github.io/workshop_field_robotics_icra2024/)
 
