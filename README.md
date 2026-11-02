@@ -115,6 +115,22 @@ In addition to a poster presentation, a subselection of the submitted posters wi
     <div class="image">
     <img style="float:left;padding-right:10px;padding-bottom:10px" 
          align='middle'
+         src="images/organizers/su_yeon_choi.jpg" alt="Image" width="80" height="80" />
+    </div>
+      <div class="text">
+        <strong>Su Yeon Choi</strong><br/>
+        <em>Republic of Korea Army Research Center</em> <br/>
+        <a href="https://www.linkedin.com/in/su-yeon-choi-9529b51b5/">Personal website</a>
+      </div>
+</div>
+
+<div style="clear:left;">
+</div>
+<br>
+<div class="container">
+    <div class="image">
+    <img style="float:left;padding-right:10px;padding-bottom:10px" 
+         align='middle'
          src="images/organizers/johann_laconte.jpg" alt="Image" width="80" height="80" />
     </div>
       <div class="text">
