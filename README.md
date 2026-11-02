@@ -21,27 +21,25 @@ This workshop will bring together experts, researchers, and practitioners to dis
 <br>
 
 # Program
-All invited speakers are confirmed.
 
-| **Time**                | **Speaker**                                | **Topic/title**                                                                 |
+| **Time** | **Speaker** | **Topic/title** |
 |---------------------|----------------------------------------|------------------------------------------------------------------------------|
-| 8:45- 9:20     | Organizers                      | Welcome and opening remarks |
-| 9:20- 9:50     | **Tim Barfoot** (University of Toronto) | Invited talk #1 - **Lunar Cargo Logistics: Multi-Robot Cooperative Transport on the Moon** |
-| 9:50- 10:10     | Five emerging researchers       | Spotlight talks (3 min/pers) |
-| 10:10- 11:10    | Coffee break and poster session                               | - |
-| 11:10- 11:40   | **Cédric Pradalier** (Georgia Tech Europe) | Invited talk #2 - **Autonomous Robotic Inspection on Ship Hulls and Storage Tanks** |
-| 11:40- 12:00   | Organizers                      | Result announcement for the dataset competition |
-| 12:00- 13:20   | Lunch                              |  - |
-| 13:20- 14:20   | **Nicholas Roy** (MIT)    | Keynote - **Scaling field robotics in the age of LLMs** |
-| 14:20- 14:50   | Panel                           | - |
-| 14:50- 15:10   | Five emerging researchers       | Spotlight talks (3 min/pers) |
-| 15:10- 16:10   | Coffee break and poster session                               | - |
-| 16:10- 16:40   | **Nina Mahmoudian** (Purdue University) | Invited talk #3 - **Field-deployable maritime autonomy through energy-aware planning, docking, and coordination** |
-| 16:40- 17:10   | **Katie Driggs-Campbell** (University of Illinois Urbana-Champaign) | Invited talk #4 - **Towards Agricultural Robots with Humans in and on the Loop** |
-| 17:10- 17:30   | Organizers                      | Conclusion |
+| 8:30 - 8:50 | Organizers | Welcome and opening remarks |
+| 8:50 - 9:35 | **James Forbe** (McGill University) | Invited talk #1 (tentative) - **Reliable Localization and Mapping for Underwater Robots in Challenging Environments** |
+| 9:35 - 10:00 | 5 emerging researchers | Spotlight talks (4 min/pers) |
+| 10:00 - 11:00 | Poster session | - |
+| 11:00 - 11:45 | **Martin Magnusson** (Orebro University) | Invited talk #2 (tentative) - **Radars in the Wild: Autonomous navigation in unstructured environments** |
+| 11:45 - 12:30 | **Nived Chebrolu** (IIT Bombay) | Invited talk #3 (tentative) - **SLAM in Agricultural Environments: From Crop-Scale Mapping to Long-Term Localization** |
+| 12:30 - 14:00 | Lunch | - |
+| 14:00 - 15:00 | **Roland Siegwart** (ETH Zurich) | Keynote (tentative) - **30 years of deployments** - **From Robot Design to Navigation and Scene Understanding** |
+| 15:00 - 15:35 | Panel Discussion | - |
+| 15:35 - 16:00 | 5 emerging researchers | Spotlight talks (4 min/pers) |
+| 16:00 - 16:45 | Poster session | - |
+| 16:45 - 17:30 | **Teresa Vidal Calleja** (University of Technology Sydney) | Invited talk #4 (tentative) - **Robust Mapping and Localization in Unstructured Environments: From Planetary Exploration to Field Robotics** |
+| 17:30 - 18:00 | Organizers | Conclusion |
 
 
-***Note**: All times are in the local time zone of ICRA 2026 (Vienna)
+***Note**: All times are in the local time zone of ICRA 2027 (Seoul)
 
 
 # Speakers  
@@ -65,101 +63,6 @@ All invited speakers are confirmed.
 <br>
 end speaker1-->
 
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/nicholas_roy.jpg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Scaling field robotics in the age of LLMs</h3>
-        <strong>Nicholas Roy</strong><br/>
-        <em>MIT Computer Science & Artificial Intelligence Laboratory</em>  <br/>
-        <a href="https://aeroastro.mit.edu/people/nicholas-roy/">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/n_mahmoudian.jpeg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Field-deployable maritime autonomy through energy-aware planning, docking, and coordination</h3>
-        <strong>Nina Mahmoudian</strong><br/>
-        <em>Purdue University
-</em>  <br/>
-        <a href="https://engineering.purdue.edu/ME/People/ptProfile?resource_id=211078">Personal website</a> <br/>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/c_pradalier.jpg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Autonomous Robotic Inspection on Ship Hulls and Storage Tanks</h3>
-        <strong>Cédric Pradalier</strong><br/>
-        <em>Georgia Tech Europe</em>  <br/>
-        <a href="https://dream.georgiatech-metz.fr/people/person-detail/cpradalier/">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/T_Barfoot.jpg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Lunar Cargo Logistics: Multi-Robot Cooperative Transport on the Moon</h3>
-        <strong>Tim Barfoot</strong><br/>
-        <em>University of Toronto</em>  <br/>
-        <a href="http://asrl.utias.utoronto.ca/~tdb/">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-
-<div class="container">
-    <div class="image">
-    <img style="float:left;padding-right:10px;padding-bottom:10px" 
-         align='middle'
-         src="images/speakers/k_driggs_campbell.jpeg" alt="Image" width="150" height="150" />
-    </div>
-      <div class="text">
-        <h3>Towards Agricultural Robots with Humans in and on the Loop</h3>
-        <strong>Katie Driggs-Campbell</strong><br/>
-        <em>Towards Agricultural Robots with Humans in and on the Loop</em>  <br/>
-        <a href="https://ece.illinois.edu/about/directory/faculty/krdc">Personal website</a>
-      </div>
-</div>
-
-<div style="clear:left;">
-</div>
-<br>
-
 # Call for contributions
 
 The workshop topics include, but are not limited to:
@@ -181,46 +84,13 @@ The selection of the participants for the poster sessions will be based on submi
 - Evidence of the proposed results based on field experiments (e.g., weak would be a single experiment, strong would be multiple visits to a site or multiple sites);
 - Quality of the analysis (e.g., unacceptable would be anecdotal results, weak would be qualitative results or time series, strong would be quantitative results with statistical evidence).
   
-- The posters should be submitted on [Microsoft CMT](https://cmt3.research.microsoft.com/FRICRA2026).
+- The posters should be submitted on Microsoft CMT.
 - Submissions do not need to be anonymized.
 
 In addition to a poster presentation, a subselection of the submitted posters will be made for rapid-fire talks to provide added exposure to emerging researchers (e.g., PhD students, early career professors). This selection will be made based on:
 - Current status and affiliation of the first author (must qualify as emerging);
 - The potential for visually interesting results;
 - Meaningfulness of the lessons learned through field experiments and expert interviews.
-
-# Competition
-
-The field robotics workshop regularly features a competition track designed to address key challenges in field robot deployment.
-This year's competition focuses on the vision-based task of Fine-Grained 2D Semantic Segmentation in challenging outdoor environments. 
-Participants have access to extensive datasets, including recordings from wheeled, tracked, and multi-legged robots navigating challenging off-road terrains from the [GOOSE](https://goose-dataset.de/) and [GOOSE-Ex](https://arxiv.org/pdf/2409.18788) dataset.
-
-The top-performing teams are invited to present their results during the workshop poster sessions and receive prizes.
-The competitions are open to all field robotics researchers, enthusiasts and practitioners.
-
-Please visit the <a href="https://www.codabench.org/competitions/14257/">competition website</a> for more details:
-
-<div class="container">
-    <div class="image">
-    <a href="https://www.codabench.org/competitions/14257/">
-    <img style="float:left; 
-                    border-radius: 70px; 
-                    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);"
-         align='middle'
-         src="images/competition/goose_2d_fine_grained_competition.gif" alt="Image" width="150" height="150" />
-    </a>
-    </div>
-      <div class="text" style="padding-top: 40px">
-        <strong style="padding-left: 30px">GOOSE 2D Semantic Segmentation Challenge</strong><br/>
-        <em style="padding-left: 30px">500€ for the 1st place team</em><br/>
-        <a style="padding-left: 30px" href="https://www.codabench.org/competitions/14257/">Codabench Website</a>
-      </div>
-</div>
-<div style="clear:left;">
-</div>
-<br>
-
-Any questions about the competition can be communicated as a [new issue on the GOOSE Dataset repository](https://github.com/FraunhoferIOSB/goose_dataset/issues/new?title=GOOSE%202D%20Fine-Grained%20Semantic%20Segmentation%20Challenge%3A%20&body=Describe%20your%20competition%20submission%20here.&labels=competition).
 
 
 # Organizers
@@ -318,27 +188,6 @@ Any questions about the competition can be communicated as a [new issue on the G
         <em>Université Laval</em> <br/>
         <a href="https://norlab.ulaval.ca/people/e_brotherton_fr/">Personal website</a>
       </div>
-</div>
-<br>
-
-## Competition Organizers
-<div style="text-align: center;">
-  <table style="margin: 0 auto; border-collapse: collapse; border: none; cellpadding: 0; cellspacing: 0;">
-    <tr>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/competition/nils_schacknat.jpg" alt="Miloš Prágr" style="max-width: 80px; height: auto;"><br><strong>Nils<br>Schacknat</strong>
-      </td>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/competition/raphael_hagmanns.jpg" alt="Raphael Hagmanns" style="max-width: 80px; height: auto;"><br><strong>Raphael Hagmanns</strong>
-      </td>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/competition/miguel_granero.jpeg" alt="Miguel Granero" style="max-width: 80px; height: auto;"><br><strong>Miguel Granero</strong>
-      </td>
-      <td style="width: 80px; vertical-align: top; height: 120px; border: none;">
-        <img src="images/competition/peter_mortimer.jpg" alt="Peter Mortimer" style="max-width: 80px; height: auto;"><br><strong>Peter Mortimer</strong>
-      </td>
-    </tr>
-  </table>
 </div>
 <br>
 
